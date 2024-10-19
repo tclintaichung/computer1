@@ -1,0 +1,42 @@
+button {
+  background-color: rgb(61, 61, 172);
+  color: white;
+  width:50px;
+  font-size: large;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border: none;
+  border-radius: 50px;
+  margin: 5px;
+  cursor: pointer;
+}
+.result {
+  font-size: 1.5em;
+  border: solid;
+  padding: 8px;
+  width: 238px;
+  background-color: green;
+  color:white;
+  border-radius: 5px;
+}
+.css-day {
+  background-color: hsl(0, 84%, 76%);
+  width: 260px;
+  border: 2px solid rgb(87, 90, 87);
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.css-keys{
+  background-color: hsl(51, 85%, 82%);
+  width: 260px;
+  border: 2px solid rgb(87, 90, 87);
+  border-radius: 5px;
+}
+.color-onclick {
+  background-color: red;
+}
+.css-day {
+  background-color: white;
+}
